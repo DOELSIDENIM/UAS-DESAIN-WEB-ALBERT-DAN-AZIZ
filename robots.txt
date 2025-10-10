@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doelsidenim.github.io/UAS-DESAIN-WEB-ALBERT-DAN-AZIZ/sitemap.xml
